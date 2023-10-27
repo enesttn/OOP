@@ -1,0 +1,11 @@
+C:\Users\Enes\Documents\TOBETO\1B\CSharp\Intro\RecapDemo1\bin\Debug\RecapDemo1.exe.config
+C:\Users\Enes\Documents\TOBETO\1B\CSharp\Intro\RecapDemo1\bin\Debug\RecapDemo1.exe
+C:\Users\Enes\Documents\TOBETO\1B\CSharp\Intro\RecapDemo1\bin\Debug\RecapDemo1.pdb
+C:\Users\Enes\Documents\TOBETO\1B\CSharp\Intro\RecapDemo1\obj\Debug\RecapDemo1.csproj.AssemblyReference.cache
+C:\Users\Enes\Documents\TOBETO\1B\CSharp\Intro\RecapDemo1\obj\Debug\RecapDemo1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Enes\Documents\TOBETO\1B\CSharp\Intro\RecapDemo1\obj\Debug\RecapDemo1.Form1.resources
+C:\Users\Enes\Documents\TOBETO\1B\CSharp\Intro\RecapDemo1\obj\Debug\RecapDemo1.Properties.Resources.resources
+C:\Users\Enes\Documents\TOBETO\1B\CSharp\Intro\RecapDemo1\obj\Debug\RecapDemo1.csproj.GenerateResource.cache
+C:\Users\Enes\Documents\TOBETO\1B\CSharp\Intro\RecapDemo1\obj\Debug\RecapDemo1.csproj.CoreCompileInputs.cache
+C:\Users\Enes\Documents\TOBETO\1B\CSharp\Intro\RecapDemo1\obj\Debug\RecapDemo1.exe
+C:\Users\Enes\Documents\TOBETO\1B\CSharp\Intro\RecapDemo1\obj\Debug\RecapDemo1.pdb
